@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\bin\Debug\netcoreapp3.1\ReorderedDouble.exe
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\bin\Debug\netcoreapp3.1\ReorderedDouble.deps.json
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\bin\Debug\netcoreapp3.1\ReorderedDouble.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\bin\Debug\netcoreapp3.1\ReorderedDouble.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\bin\Debug\netcoreapp3.1\ReorderedDouble.dll
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\bin\Debug\netcoreapp3.1\ReorderedDouble.pdb
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.dll
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.pdb
+C:\Users\monisha.khapali\source\repos\ReorderedDouble\ReorderedDouble\obj\Debug\netcoreapp3.1\ReorderedDouble.genruntimeconfig.cache
